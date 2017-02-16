@@ -1,2 +1,3 @@
 # Hello-World
-project
+This is my project
+greetings from Boston
